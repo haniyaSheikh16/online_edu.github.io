@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Skranji', cursive;
+    
+}
+video {
+    width: 100%;
+    height: auto;
+  }
+  /* FOOTER */
+
+  #footer
+  {
+      margin-top: 80px;
+      padding: 100px;
+      background-image: linear-gradient(#fff ,#008080);
+      color: #013f7e;
+  }
+  .footer-logo
+  {
+      width: 150px;
+      margin-top: 25px;
+      margin-bottom: 15px;
+  }
+  #footer h1
+  {
+      font-size: 15px;
+      text-align: left;
+      margin-top: 25px;
+      margin-bottom:  25px; 
+      
+  }
+  #footer p
+  {
+      font-size  : 12px ;
+      text-align: left;
+  }
+  #footer .row .fa
+  {
+      font-size: 15px;
+      padding-right: 20px;
+  }
+  #footer hr
+  {
+       margin-top: 10px;
+  }
+  #footer .copyright
+  {
+      margin-bottom: -80px;
+      text-align: center;
+      font-size: 15px;
+  }
+  
+  
+
+
